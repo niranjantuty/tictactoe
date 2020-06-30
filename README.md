@@ -1,2 +1,4 @@
-# tictactoe
-Play Tic-Tac-Toe against another player.
+# Tic-Tac-Toe
+A simple python 3 implementation of tictactoe game.
+  
+    python game.py
